@@ -130,7 +130,7 @@ Deliberately **avoided over-Indianising** — no saffron overload, mandalas, or 
 
 ### Test Details
 - Tool: [pagespeed.web.dev](https://pagespeed.web.dev)
-- Date: [aaj ki date]
+- Date: 10/14/2026
 - Mobile: simulated Slow 4G (Moto G Power)
 - Desktop: simulated Cable
 - Chrome incognito to avoid extension interference
