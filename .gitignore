@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+**/.env
+**/.env.local
+
+# Build output
+dist/
+build/
+**/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Editor / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Vercel / Netlify
+.vercel
+.netlify
+
+# Misc
+coverage/
+.cache/
