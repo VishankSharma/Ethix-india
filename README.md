@@ -123,8 +123,8 @@ Deliberately **avoided over-Indianising** — no saffron overload, mandalas, or 
 
 | Platform | Score |
 |---|---|
-| **Mobile** | XX / 100 |
-| **Desktop** | XX / 100 |
+| **Mobile** | 88/ 100 |
+| **Desktop** | 98 / 100 |
 
 📊 **[View full results and screenshots on Google Drive](https://drive.google.com/drive/folders/YOUR-FOLDER-ID)**
 
